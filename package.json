@@ -2,6 +2,14 @@
   "name": "nodejsmodeules",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/rajeswarynrphd-boop/myproject#readme",
+  "bugs": {
+    "url": "https://github.com/rajeswarynrphd-boop/myproject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeswarynrphd-boop/myproject.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
